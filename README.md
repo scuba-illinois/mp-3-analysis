@@ -38,7 +38,7 @@ We have provided you with some test cases. **Make sure you pass these before mov
 Some of the checkpoints also have written components and we have provided markdown cells for you to fill in your answer.
 
 ## What to submit
-* *Your python code* (`MP-3.ipynb`): upload your completed notebook with all checkpoints filled out and all code outputs visible to canvas.
+* *Your python code* (`MP-3.ipynb`): upload your completed notebook with all checkpoints filled out and all code outputs visible to Canvas.
 
 ## Grading
 
