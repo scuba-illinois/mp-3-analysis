@@ -30,7 +30,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1HBCftCDTAglt5H
 ## Your Task
 
 You will go through the provided Jupyter notebook, [MP-3.ipynb](./MP-3.ipynb), and fill in all the marked checkpoints.
-The MP is very structured and provides a lot of code for you, so all you need to do is read along, run the provided code, and fill in requested cells. 
+The MP is very structured and provides a lot of code for you, so all you need to do is read along, run the provided code, and fill in requested cells  (both code and markdown). 
 **You must run every provided cell for the assignment to work properly.**
 
 We have provided you with some test cases. **Make sure you pass these before moving on!** They're designed to help make sure you're on the right track.
