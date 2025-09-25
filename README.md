@@ -22,22 +22,21 @@ By the end of this MP, you will be able to:
 * Measure and interpret match quality with Standardized Mean Difference (SMD)
 * Perform a Wilcoxon Signed-Rank test
 * Run and interpret Difference-in-Differences (DiD) regression
-* Visually examine pre- and post- treatment data for trends
 
 ## Setup
 
-Download the dataset from [here](??). The dataset consists of all posts from r/aww that were submitted in year 2022. 
+Download the dataset from [here](https://drive.google.com/file/d/1HBCftCDTAglt5HVectVMOU3bLCcqk8HM/view?usp=drive_link). The dataset consists of all posts from r/aww that were submitted in year 2022. 
 
 ## Your Task
 
-You will go through the provided Jupyter notebook, [MP-3.ipynb](./MP-3.ipynb), and fill in all the marked checkpoints. The lab is very structured and provides a lot of code for you, so all you need to do is read along, run the provided code, and fill in requested code cells.
+You will go through the provided Jupyter notebook, [MP-3.ipynb](./MP-3.ipynb), and fill in all the marked checkpoints. The MP is very structured and provides a lot of code for you, so all you need to do is read along, run the provided code, and fill in requested code cells. **You must run every provided cell for the assignment to work properly.**
 
 We have provided you with some test cases. **Make sure you pass these before moving on!** They're designed to help make sure you're on the right track.
 
 ## What to submit
 
 * *Your python code* (`MP-3.ipynb`): upload your completed notebook with all checkpoints filled out and all code outputs visible.
-* *A written report*:
+* *A written report*: Using [this](https://docs.google.com/document/d/1ngGwjn6Ok_C_xS3PjEIGGg3EglcA-6UUSYQI1Yl1epM/edit?usp=sharing) template, include a PDF file answering each of the template questions. Some of the questions ask for specific interpretations of results from the checkpoints and other questions ask you to think more broadly about the methods.
 
 ## Grading
 
