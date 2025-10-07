@@ -43,3 +43,6 @@ Some of the checkpoints also have written components and we have provided markdo
 ## Grading
 
 You will be evaluated on your answers for each of the 7 checkpoints. Point values are noted alongside each checkpoint in the notebook.
+
+## Corrections/Clarifications
+* For checkpoint 3 part 2, redefine the matches directly in `df_matched`, do not create a separate a separate data frame (the given code assumes you have the properly matched data stored in `df_matched` later on)
