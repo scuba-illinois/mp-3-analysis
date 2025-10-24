@@ -43,3 +43,10 @@ Some of the checkpoints also have written components and we have provided markdo
 ## Grading
 
 You will be evaluated on your answers for each of the 7 checkpoints. Point values are noted alongside each checkpoint in the notebook.
+
+## Corrections/Clarifications
+* For Checkpoint 3 part 2, redefine the matches directly in `df_matched`, do not create a separate a separate data frame (the given code assumes you have the properly matched data stored in `df_matched` later on)
+* For Checkpoint 6, if you're failing the first test case (shown below), don't worry about it! The test case makes a faulty assumption and we will not evaluate you based on this test case.
+  * ```assert len(df_weekly) == 4_962, 'Unexpected number of weekly aggregates. Check your groupby'```
+* For Checkpoint 7 part 2, using `smf.negativebinomial` seems to spit out a lot of `NaN`s! If you get non-`NaN` coefficients, you can interpret the results anyway in part 3 and not worry about the statistical significance.
+  * (optionally) You can also look at [`smf.glm`](https://www.statsmodels.org/stable/examples/notebooks/generated/glm_formula.html) which allows you to provide the argument `family=sm.families.NegativeBinomial()` (after `import statsmodels.api as sm`). This should solve the NaN problem, but is not required for full credit on this part!
